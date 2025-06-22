@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm a Senior Full Stack TypeScript/Node/React/Supabase Developer 👋</h1>
+<h1 align="center">Hi there, I'm a Senior Full Stack TypeScript/Angular/Node/React/Supabase Developer 👋</h1>
 
 <p align="center">
-  <b>TypeScript, Node.js, React.js, OpenAI, Supabase Developer | Fintech, CRM, B2B Solutions</b><br>
+  <b>TypeScript, Angular, Node.js, React.js, OpenAI, Firebase, Supabase Developer | Fintech, CRM, B2B Solutions</b><br>
   💻 Virginia | MSc in Computer Science | 5+ years programming experience
 </p>
 
@@ -12,6 +12,7 @@
 I’m a **Senior Full Stack Developer** with a deep love for scalable systems and elegant APIs.
 
 I specialize in:
+- Develop responsive and scalable web applications (MEAN, MERN)
 - Building fast and reliable **Node.js** APIs (Fastify, Express, Socket.IO)
 - **Integrating complex systems** across Fintech, CRM, SaaS, and B2B platforms
 - Optimizing performance through **rate-limiting, clustering, pooling, and batching**
@@ -29,6 +30,8 @@ I’ve been coding since I was 10, and today I help businesses automate and grow
 
 #### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
@@ -59,9 +62,9 @@ I love connecting APIs and automating workflows. Here are some platforms I work 
 
 ### 🧭 What I’m Up To
 
-- 🔧 Currently building B2B SaaS backend boilerplates
+- 🔧 Currently building B2B SaaS Dashboards using MERN
 - ✨ Exploring AI-powered automation with LangChain
-- 🤝 Open to freelance API/Backend projects
+- 🤝 Full-time freelancing
 
 ---
 
