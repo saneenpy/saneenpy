@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm a Senior Full Stack TypeScript/Angular/Node/React/Supabase Developer 👋</h1>
+<h1 align="center">Hi there, I'm a Senior Full Stack TypeScript/Node/Express/Nest/React/AWS/Firebase Developer 👋</h1>
 
 <p align="center">
   <b>TypeScript, Node.js, Express.js, Nest.js, React.js, OpenAI, Firebase, Supabase Developer | Fintech, CRM, B2B Solutions</b><br>
