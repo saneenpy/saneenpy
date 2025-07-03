@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm a Senior Full Stack TypeScript/Angular/Node/React/Supabase Developer 👋</h1>
 
 <p align="center">
-  <b>TypeScript, Angular, Node.js, React.js, OpenAI, Firebase, Supabase Developer | Fintech, CRM, B2B Solutions</b><br>
+  <b>TypeScript, Node.js, Express.js, Nest.js, React.js, OpenAI, Firebase, Supabase Developer | Fintech, CRM, B2B Solutions</b><br>
   💻 Virginia | MSc in Computer Science | 5+ years programming experience
 </p>
 
@@ -30,7 +30,6 @@ I’ve been coding since I was 10, and today I help businesses automate and grow
 
 #### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
