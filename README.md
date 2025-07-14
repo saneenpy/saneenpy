@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm a Senior Full Stack TypeScript/Node/Express/Nest/React/AWS/Firebase Developer 👋</h1>
 
 <p align="center">
-  <b>TypeScript, Node.js, Express.js, Nest.js, React.js, OpenAI, Firebase, Supabase Developer | Fintech, CRM, B2B Solutions</b><br>
+  <b>TypeScript, Node.js, Nest.js, React.js, OpenAI, Supabase Developer | Fintech, CRM, B2B Solutions</b><br>
   💻 Virginia | MSc in Computer Science | 5+ years programming experience
 </p>
 
